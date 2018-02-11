@@ -1,3 +1,4 @@
+#define POCO_NO_UNWINDOWS 1
 #include "ofMain.h"
 #include "ofApp.h"
 
