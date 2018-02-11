@@ -10,7 +10,7 @@ void ofApp::setup() {
 	art.setup();
 
 	ofSetBackgroundAuto(false);
-}// 45shavlik11
+}// 
  //https://en.wikipedia.org/wiki/HSL_and_HSV
 void ofApp::update() {
 	cam.update();

@@ -19,7 +19,6 @@ public:
 	ofMesh mesh;
 	ofColor getTargetColor() { return targetColor; }
 private:
-	ofColor targetColor;
 };
 
 class Image;
